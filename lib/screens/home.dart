@@ -1,5 +1,5 @@
-import 'package:clinic_app/ventanas/catalogo_especialistas.dart';
-import 'package:clinic_app/ventanas/catalogo_pruebas.dart';
+import 'package:clinic_app/screens/catalogo_especialistas.dart';
+import 'package:clinic_app/screens/catalogo_pruebas.dart';
 import 'package:flutter/material.dart';
 import 'package:clinic_app/utils/app_bar.dart';
 
